@@ -1,0 +1,2 @@
+# Value-Iteration-Dice-Game
+A coursework where we were required to create an agent that was able to play a dice game and consistently obtain an above-average score. My agent managed to obtain a score of 12.4 out of a maximum of 18 for the simple rules game, and for the extended rules game my agent returned an agent of 4.1 out of a maximum of 6. Therefore, my agent consistently returned a score that was 70% of the maximum score.
